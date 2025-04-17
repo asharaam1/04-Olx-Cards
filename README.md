@@ -7,3 +7,7 @@ This is a simple React project that displays OLX-style product cards using custo
 - [React.js](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+
+
